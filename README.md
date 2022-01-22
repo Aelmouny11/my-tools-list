@@ -1,75 +1,19 @@
-<style>
-body {
-    padding:0;
-    margin:0;
-    padding-top:0px;
-    background:#fff;
-    margin:0
-    font-family:serif;
-}
-h3{
-    color:#00A1E4;
-    margin-bottom:6px;
-    margin-top:6px;
-    /* font-size:18px; */
-    text-decoration:underline;
-}
-h1{
-    /* text-align:center; */
-    color:red;
-    /* margin-bottom:20px; */
-    background:#00A1E4;
-    border-radius:2px;
-    /* padding-top:5px; */
-    align-items:center;
-    color:white;
-    padding-left:6px;
-}
+---
+title: "Title"
+author: "Author"
+date: "DATE"
+output: 
+  html_document:
+     css: ./style.css
+     self_contained: no
 
-table{
-    width:100%;
-    border-radius:5px;
-}
-table td,table th{
+---
 
-    border:2px solid #CDC392 ;
-    background:white;
-    border-radius:;
+<div style="display:none;">
 
-}
-table th{
-    color:darkblue;
-}
-span{
-    font-weight:bold;
-    /* color:#00A1E4; */
-}
-img{
-    /* width:100px; */
-    /* background:#663F46; */
-}
-#logo{
-    width:150px;
-}
-h4{
-    color:#E24E1B;
-}
-h5{
-    color:#663F46;
-}
+<link type="text/css" rel="stylesheet" href="style.css">
 
-p,ul,ol{
-    /* background:cyan; */
-    width:100%;
-    padding:0.5rem;
-    font-size:18px;
-}
-h2{
-    color:purple;
-}
-
-</style>
-
+</div>
 
 **[Download Pdf](./README.pdf)**
 - [1. Useful Websites :](#1-useful-websites-)
