@@ -1,12 +1,8 @@
 ---
-title: "Title"
-author: "Author"
-date: "DATE"
-output: 
-  html_document:
-     css: ./style.css
-     self_contained: no
-
+title: "Tools list"
+author: "
+Azddine Elmoumny"
+date: 22 January 2022
 ---
 
 <div style="display:none;">
